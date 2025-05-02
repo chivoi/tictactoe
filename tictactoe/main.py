@@ -12,7 +12,7 @@ def startup(io=IOHandler()):
     player2 = None
 
     io.clear_screen()
-    io.output_from_file("tictactoe/assets/hero_text.txt")
+    io.output_from_file(os.path.join(os.path.dirname(__file__), "assets", "hero_text.txt"))
 
     while True:
         io.output("Player1 is {}".format(player1.name if player1 else "👤Player"))
