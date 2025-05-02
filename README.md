@@ -1,5 +1,8 @@
 # Tic Tac Toe
 
+<img height="250" alt="Screenshot 2025-05-02 at 12 18 07 pm" src="https://github.com/user-attachments/assets/866f16f2-0d7b-4191-baa0-dff902a72384" />
+<img height="250" alt="Screenshot 2025-05-02 at 12 20 46 pm" src="https://github.com/user-attachments/assets/b68b63ec-c0d5-42dd-9864-8b0faa57b5ae" />
+
 A Python implementation of the Tic Tac Toe game that includes classic game functionality and some experimental features.
 
 ## What it can do
@@ -25,7 +28,7 @@ A Python implementation of the Tic Tac Toe game that includes classic game funct
 - **Replay Option**: Easily restart the game after a match.
 - **Persistent Settings**: Retain board size and player preferences for consecutive games.
 
-## How to Use
+## How to install and play
 
 1. Clone the app directory, cd into it
 ```bash
@@ -55,5 +58,8 @@ A Python implementation of the Tic Tac Toe game that includes classic game funct
    ```
 4. Follow the on-screen prompts to configure and play the game!
 
+## What it looks like
+
+https://github.com/user-attachments/assets/ac556da8-8b6b-45f6-88d6-4d3033d36b89
 ___
 ❌⭕ Built by Ana Lastoviria and Katie Louise Ross for Zendesk code club  ❌⭕
