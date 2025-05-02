@@ -42,7 +42,7 @@ A Python implementation of the Tic Tac Toe game that includes classic game funct
    docker build . -t chivoi/tictactoe
     # run the app
    docker run  -it chivoi/tictactoe
-   # Done 🎉
+    # Done 🎉
    ```
 
 3. If you don't have Docker, do this:
